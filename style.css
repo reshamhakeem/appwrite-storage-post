@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    border: 1px, solid, black;
+    border-radius: 5px;
+    width: 300px;
+    height: 200px;
+}
+#main button{
+    background-color: blue;
+    color: white;
+}
